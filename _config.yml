@@ -1,3 +1,30 @@
 theme: plainwhite-jekyll
 title: TNRiley - Research Librarian
 description: Highlighting R applications for evidence synthesis methodology.
+
+ 
+# Plainwhite theme specific configurations
+plainwhite:
+  name: Trevor Riley
+  tagline: |
+    Research Librarian
+    R Applications for Evidence Synthesis
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: TNRiley
+    linkedIn: in/trevor-riley-6b3ba532
+
+  navigation:
+    - title: About
+      url: "/about"
+    - title: R Applications
+      url: "/r-applications"
+    - title: Research
+      url: "/research"
+
+  dark_mode: true
+  search: true
+  sitemap: true
+  # analytics_id: "UA-XXXXXXXX-X" # Add your Google Analytics ID later 
+  # portfolio_image: "assets/profile.png" # Add your profile image later
