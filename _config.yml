@@ -8,12 +8,13 @@ plainwhite:
   name: Trevor Riley
   tagline: |
     Research Librarian
-    R Applications for Evidence Synthesis
+    R Applications
+    Evidence Synthesis
   date_format: "%b %-d, %Y"
 
   social_links:
     github: TNRiley
-    orcid: 0000-0002-6834-9802
+    orcid: "https//orcid.org/0000-0002-6834-9802"
     linkedIn: in/trevor-riley-6b3ba532
 
   navigation:
