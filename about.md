@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# About Us
+# About Me
 
 This is the about page.
